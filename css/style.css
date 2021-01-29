@@ -170,7 +170,7 @@ nav{
 }
 .oneimg{
   transition: .5s ease;
-  width: 150%;
+  width: 130%;
   opacity: 0.6;
 }
 .oneimg:hover{
@@ -180,62 +180,62 @@ nav{
 }
 .twoimg{
   transition: .5s ease;
-  width: 20%;
+  width: 130%;
   opacity: 0.6;
 }
 .twoimg:hover{
   transition: .5s ease;
-  width: 50%;
+  width: 150%;
   opacity: 1;
 }
 .threeimg{
   transition: .5s ease;
-  width: 20%;
+  width: 130%;
   opacity: 0.6;
 }
 .threeimg:hover{
   transition: .5s ease;
-  width: 50%;
+  width: 150%;
   opacity: 1;
 }
 .fourimg{
   transition: .5s ease;
-  width: 20%;
+  width: 130%;
   opacity: 0.6;
 }
 .fourimg:hover{
   transition: .5s ease;
-  width: 50%;
+  width: 150%;
   opacity: 1;
 }
 .fiveimg{
   transition: .5s ease;
-  width: 20%;
+  width: 130%;
   opacity: 0.6;
 }
 .fiveimg:hover{
   transition: .5s ease;
-  width: 50%;
+  width: 150%;
   opacity: 1;
 }
 .siximg{
   transition: .5s ease;
-  width: 20%;
+  width: 130%;
   opacity: 0.6;
 }
 .siximg:hover{
   transition: .5s ease;
-  width: 50%;
+  width: 150%;
   opacity: 1;
 }
 .sevenimg{
   transition: .5s ease;
-  width: 20%;
+  width: 130%;
   opacity: 0.6;
 }
 .sevenimg:hover{
   transition: .5s ease;
-  width: 50%;
+  width: 150%;
   opacity: 1;
 }
 footer{
